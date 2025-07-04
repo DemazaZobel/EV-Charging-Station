@@ -38,13 +38,13 @@ A responsive and modern React-based website for an electric vehicle (EV) chargin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ev-charging-website.git
+git clone (https://github.com/DemazaZobel/EV-Charging-Station/)
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd ev-charging-website
+cd ev-charging-station
 ```
 
 3. Install dependencies:
