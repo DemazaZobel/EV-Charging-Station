@@ -1,6 +1,3 @@
-Sure! Here's a well-structured README template for your EV Charging website project. You can customize it further if you want:
-
----
 
 # EV Charging Website
 
